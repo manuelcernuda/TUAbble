@@ -1,0 +1,77 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "correo@manuelcernuda.net",
+    "longName": "TUAbble",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/L2_icon.png",
+                "name": "IMAGES_L2_ICON_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/L1_icon.png",
+                "name": "IMAGES_L1_ICON_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/J2_icon.png",
+                "name": "IMAGES_J2_ICON_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/J1_icon.png",
+                "name": "IMAGES_J1_ICON_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/work_icon.png",
+                "name": "IMAGES_WORK_ICON_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/home_icon.png",
+                "name": "IMAGES_HOME_ICON_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/bus_icon.png",
+                "menuIcon": true,
+                "name": "IMAGES_BUS_ICON_PNG",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "TUAbble",
+    "uuid": "212a5ba2-8a45-44bd-b7cc-4f6a66b30d46",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
